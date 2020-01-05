@@ -3,7 +3,9 @@
 </p>
 <h1 align="center">Modern Design [uLaunch]</h1>
 <p align="center">
-  <a href="https://github.com/bqio/ulaunch-mdesign/releases"><img src="https://img.shields.io/github/downloads/bqio/ulaunch-mdesign/total.svg"></a>
+  <a href="https://github.com/bqio/ulaunch-mdesign/releases">
+    <img src="https://img.shields.io/github/downloads/bqio/ulaunch-mdesign/total.svg">
+  </a>
 </p>
 
 # Thanks
